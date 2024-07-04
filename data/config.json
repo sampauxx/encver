@@ -1,0 +1,6 @@
+{
+    "src_foler" : "",
+    "white_list" : ["127.0.0.1"],
+    "cypher_v1" : { "key" :  "s50v4PX3mK3wk5Qd", "iv" : "DKBognZY9b1Ol0tP",  "ciphering" : "AES-128-ECB" }
+}
+
